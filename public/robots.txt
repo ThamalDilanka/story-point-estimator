@@ -1,0 +1,11 @@
+# Robots.txt for Story Point Estimator
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location (if you add one later)
+# Sitemap: https://ThamalDilanka.github.io/story-point-estimator/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
